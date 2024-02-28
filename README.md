@@ -1,4 +1,4 @@
-# Kose's wall of achievements
+# Kose's Smart Contract Security Reviews
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 | --- | --- |--- | --- |
@@ -10,16 +10,16 @@
 
 | Contest | Findings | Other | Placement | Date | Report |
 | --- | --- | --- | --- | --- | --- |
-| Venus | -   | QA(A) | - | May 2023 | - |
+| Venus | -   | QA(A) | - | May 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Venus.md) |
 | USSD | 5 H & 1 M | - | - | June 2023 | Soon |
-| Symmetrical | 3 M | -  | 15 / 233 | June 2023 | - | 
+| Symmetrical | 3 M | -  | 15 / 233 | June 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Symmetrical.md) | 
 | Beedle | 6 H  | -   | - | July 2023 | Soon |
 | CodeHawks StableCoin | 1 H & 2 M  | - | 13 / 100 | July 2023 | Soon |
 | Sparkn | 1 M   | -   | - | Aug 2023 | Soon |
 | Canto | 1 M   | Analysis(B)   | - | Nov 2023 |Soon | 
 | Nextgen | 2 H | Analysis(B)   | - | Nov 2023 |Soon |
-| The Standard | 2 M  | -   | - | Dec 2023 | - |
-| Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | - |
+| The Standard | 2 M  | -   | - | Dec 2023 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/The%20Standard.md) |
+| Curves | 3 H & 2 M  | QA(B)   | - | Jan 2024 | [Audit Report](https://github.com/kosedogus/audits/blob/main/Audit%20Reports/Curves.md) |
 
 # Team Participations
 
